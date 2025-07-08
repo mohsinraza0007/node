@@ -10,6 +10,8 @@ const getUsers = async (req, res, next) => {
   }
 };
 
+
+
 // Create a user
 const createUser = async (req, res, next) => {
   try {
