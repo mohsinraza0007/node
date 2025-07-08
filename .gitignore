@@ -1,0 +1,31 @@
+# Node modules folder
+node_modules/
+
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Runtime data
+pids
+*.pid
+*.seed
+
+# Dependency directories
+jspm_packages/
+
+# Optional npm cache directory
+.npm
+
+# Optional eslint cache
+.eslintcache
+
+# Environment files
+.env
+
+# Operating System files
+.DS_Store
+Thumbs.db
+
+# Optional: lock file (if you want to ignore)
+package-lock.json
